@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":242,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["眞山"]},{"code":401,"indent":0,"parameters":["「そうか、\\|君も直大の仲間だったんだね。」"]},{"code":230,"indent":0,"parameters":[60]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["眞山"]},{"code":401,"indent":0,"parameters":["「もう誰も信用できねえふぇえええええええええい。」"]},{"code":223,"indent":0,"parameters":[[187,-102,-85,136],1,true]},{"code":234,"indent":0,"parameters":[1,[170,-221,-255,0],1,true]},{"code":234,"indent":0,"parameters":[2,[85,-204,-153,0],1,true]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["眞山"]},{"code":401,"indent":0,"parameters":["「うおおおおグサグサグサーーーはいびっくり"]},{"code":401,"indent":0,"parameters":["　ふぇいふぇいふぇいふぇいふぇいもえぇい"]},{"code":401,"indent":0,"parameters":["　きゃーーーーー！！！！！」"]},{"code":353,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"ゲームオーバー","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
